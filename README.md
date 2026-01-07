@@ -36,10 +36,14 @@ The objective of this project is:
 5. The output is displayed in HH:MM:SS format.
    
 ## Sample Input
-xxxxx
+1. 3600
+2. 1060
+3. 4917
 
 ## Sample Output
-xxxxxx
+1. 01:00:00
+2. 00:17:40
+3. 01:21:57
 
 ![Output Screenshot](output.png)
 
