@@ -41,6 +41,7 @@ xxxxx
 ## Sample Output
 xxxxxx
 
+![Output Screenshot](output.png)
 
 ## Utility of the Project
 This project can be useful in:
