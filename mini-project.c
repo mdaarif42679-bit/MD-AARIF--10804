@@ -13,6 +13,5 @@ int main()
     seconds = totalSeconds % 60;
 
     printf("Formatted Time (HH:MM:SS) = %02d:%02d:%02d\n", hours, minutes, seconds);
-
     return 0;
 }
